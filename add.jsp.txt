@@ -1,0 +1,4 @@
+<%@ page language="java"%>
+<html>
+<body>
+<%! int n1,n2,add >
